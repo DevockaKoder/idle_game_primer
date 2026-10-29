@@ -1,0 +1,8 @@
+{
+  "name": "Remix История Нашей Любви — Idle Life",
+  "description": "Увлекательная idle-игра о жизни, взрослении, учебе, карьере, ремонте квартиры, путешествиях по миру и отношениях.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
